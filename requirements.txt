@@ -37,7 +37,7 @@ heroku3==5.1.4
 spamwatch==0.3.0
 alphabet-detector==0.0.7
 pyrate-limiter==2.4.7
-cachetools==4.2.4
+cachetools
 ujson==4.2.0
 pretty-errors==1.2.24
 PyGithub==1.55
