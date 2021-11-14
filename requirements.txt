@@ -1,5 +1,6 @@
 future==0.18.2
 telegram==0.0.1
+python-telegram-bot==13.8.1
 emoji==1.6.1
 lxml==4.6.4
 wget==3.2
