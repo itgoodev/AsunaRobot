@@ -20,8 +20,8 @@ zalgo-text
 geopy
 nltk
 psutil
-aiohttp>=2.2.5
-Pillow>=4.2.0
+aiohttp==2.2.5
+Pillow==4.2.0
 CurrencyConverter
 googletrans==4.0.0-rc1
 google-trans-new==1.1.9
@@ -33,7 +33,7 @@ bleach
 markdown2>=2.4.0
 wikipedia
 telethon==1.16.4 
-telegraph
+telegraph==2.1.0
 heroku3
 spamwatch
 alphabet_detector
