@@ -1,6 +1,6 @@
 future
 emoji
-python-dateutil==2.8.2
+#python-dateutil==2.8.2
 lxml
 wget
 gtts
@@ -30,7 +30,7 @@ speedtest-cli
 coffeehouse==2.2.4
 regex
 bleach
-markdown2>=2.4.0
+markdown2==2.4.0
 wikipedia
 telethon==1.16.4 
 telegraph==2.1.0
